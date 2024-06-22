@@ -1,5 +1,9 @@
 - 👋 Hi, I’m Jaime Torres!
 
+### Here's a few more places where i've collaborated/done stuff!
+
+- [JavaScript Engine (The programming language itself!) /Mozilla's Bugzilla](https://bugzilla.mozilla.org/user_profile?user_id=756163)
+- [Blender (3D Modeling Software)](https://projects.blender.org/mews6)
 <!---
 mews6/mews6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
